@@ -1,4 +1,4 @@
-#Syllabus 
+# Syllabus for 5th Sem
 
 ![1](https://user-images.githubusercontent.com/37971771/186501455-f87e8cda-ad6f-411c-b17d-0345446dadce.png)
 ![2](https://user-images.githubusercontent.com/37971771/186501463-bbee5b40-f555-439f-a868-3a06d8b67ffa.png)
